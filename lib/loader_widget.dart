@@ -36,6 +36,7 @@ void showLoader(BuildContext context, {required Color color}) {
         );
       }
     );
+    
   }
 
 void hideLoader(BuildContext context) {
